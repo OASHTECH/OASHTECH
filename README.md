@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @OASHTECH
-- 👀 I’m interested in front end developer
+- 👋 Hi, I’m Okunlola Abdulafeez Shola
+- 👀 I’m a front end developer and Electrical technologist.
 - 🌱 I’m currently learning html, css, JavaScript and react.
 - 💞️ I’m looking to collaborate on front end developer
 - 📫 How to reach me( whatApp +2348154502738, Email: sholaafeez81@gmail.com)
